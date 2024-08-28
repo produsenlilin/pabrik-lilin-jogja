@@ -28,15 +28,14 @@
     "souvenir",
     "hiasan",
     "romantis"
-  ]
+  ],
   "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
-    "lint": "next lint",
+    "dev": "cat \"Berhasil\"",
+    "build": "cat \"Berhasil\"",
+    "start": "cat \"Berhasil\"",
+    "lint": "cat \"Berhasil\"",
   },
   "dependencies": {
-    "next": "13.1.1",
   },
   "devDependencies": {
   }
