@@ -1,0 +1,43 @@
+{
+  "name": "million-candles",
+  "version": "1.0.0",
+  "private": false,
+  "keywords": [
+    "lilin dibuat dengan cara",
+    "nama produk lilin aromaterapi",
+    "kerajinan lilin hias",
+    "lilin aromaterapi unik",
+    "souvenir kantor jogja",
+    "candles adalah",
+    "cara membuat lilin hias",
+    "jual soy wax terdekat",
+    "pabrik lilin",
+    "candle wax",
+    "souvenir lilin aromaterapi",
+    "souvenir lilin",
+    "stearin lilin",
+    "lilin sumbu",
+    "sumbu lilin aromaterapi",
+    "souvenir pernikahan lilin aromaterapi",
+    "jual lilin aromaterapi terdekat",
+    "lilin 138",
+    "soy candle",
+    "soy wax candle",
+    "lilin aromaterapi",
+    "blog",
+    "souvenir",
+    "hiasan",
+    "romantis"
+  ]
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+  },
+  "dependencies": {
+    "next": "13.1.1",
+  },
+  "devDependencies": {
+  }
+}
